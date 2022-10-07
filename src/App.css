@@ -32,7 +32,7 @@
 .Displaycard{
   border: solid white 2%;
   border-radius: 5%;
-  box-shadow: 10px 10px lightgray;
+  box-shadow: 5px 5px lightgray;
 }
 hr{
   opacity: 0.3;
